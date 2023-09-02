@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h1>tung</h1>
+    <h1 class="text-blue-600">tung</h1>
   </div>
 </template>
